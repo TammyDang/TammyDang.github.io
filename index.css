@@ -1,6 +1,11 @@
+#header{
+    background-color: aliceblue;
+}
+
 h1{
     color: #faf9f7
     font-family: Arial, Georgia, Verdana;
+    text-align: center;
 }
 
 p{
